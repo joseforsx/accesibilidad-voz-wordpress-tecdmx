@@ -1,2 +1,3 @@
 # accesibilidad-voz-wordpress-tecdmx
-Proyecto de accesibilidad para WordPress usando la librería ResponsiveVoice para integrar control y lectura por voz. Desarrollado para el Tribunal Electoral de la Ciudad de México (TECDMX) para mejorar la experiencia de usuarios con discapacidad.
+Este proyecto implementa una funcionalidad de accesibilidad por voz utilizando la librería [ResponsiveVoice](https://responsivevoice.org/).  
+Fue desarrollado como parte de una solución para el Tribunal Electoral de la Ciudad de México (TECDMX), integrado en un sitio WordPress institucional.
