@@ -12,7 +12,7 @@ Fue desarrollado como parte de una solución para el Tribunal Electoral de la Ci
 
 - HTML5
 - CSS3
-- JavaScript (vanilla)
+- JavaScript
 - [ResponsiveVoice JS](https://responsivevoice.org/)
 
 ## 📦 Archivos incluidos
