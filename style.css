@@ -1,0 +1,47 @@
+#playbutton {
+	position: fixed;
+	top: 6px;
+	left: 43%;
+	z-index:999;
+	width: 70px;
+	height: 28px;
+	padding: 0px;
+	border: 1px solid rgba(217, 222, 199, 1);
+	background-color: #FFFFFF;
+	background-image: url(activar.png);
+	background-size: 100%;
+	background-repeat: no-repeat ;
+	background-position: 0px -6px;
+	font-size:12px;
+		color: #444444;
+	font-weight: 600;
+}
+
+#playbutton:hover {
+	color: #000000;
+	border: 2px dotted rgba(241, 120, 120, .4);
+}
+
+#stopbutton {
+	position: fixed;
+	top: 6px;
+	left: 50%;
+	z-index: 6;
+	width: 85px;
+	height: 28px;
+	padding: 0px;
+	border: 1px solid rgba(217, 222, 199, 1);
+	background-color: #FFFFFF;
+	background-image: url(desactivar.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: 0px -6px;
+	font-size:12px;
+	color: #444444;
+	font-weight: 600;
+}
+
+#stopbutton:hover {
+	color: #000000;
+	border: 2px dotted rgba(241, 120, 120, .4);
+}

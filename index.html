@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accesibilidad en WordPress - TECDMX</title>
+    <link rel="stylesheet" href="estyle.css">
+
+    <!--LIBRERÍA-- RESPONSIVEVOICE-->
+    <script src="https://code.responsivevoice.org/responsivevoice.js?key=MNh1OsME"></script>
+    <!--LIBRERÍA JQUERY-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+	<!--FONT AWESOME-->
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+		
+</head>
+<body>
+    <!--BTN-ACCESIBILIDAD-->
+    <div class="btn-container">
+        <!--BTN-PLAYBUTTON-->
+        <button id="playbutton" type="button">
+            <i class="fas fa-wheelchair"></i> 
+        </button>
+        <!--BTN-STOPBUTTON-->
+        <button id="stopbutton" type="button">
+            <i id="fas" class="fas fa-wheelchair"></i> 
+        </button>
+    </div>
+    <!--END BTN-ACCESIBILIDAD-->
+
+    <!--AUDIOS-->
+    <div class="audios">
+        <audio src="activar.mp3"></audio>
+        <audio class="audio" src="desactivar.mp3"></audio>
+    </div>
+    <!--END AUDIOS-->
+
+    <script src="script.js"></script>
+</body>
+</html>
