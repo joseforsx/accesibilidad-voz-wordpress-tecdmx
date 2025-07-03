@@ -22,7 +22,6 @@ Fue desarrollado como parte de una solución para el Tribunal Electoral de la Ci
 - index.html: Estructura principal de prueba.
 - style.css: Estilos para botones de control por voz.
 - script.js: Código JavaScript para controlar la lectura por voz.
-- (Opcional) responsivevoice.js: Si no usas el CDN.
 
 ## 🔗 Integración en WordPress
 
